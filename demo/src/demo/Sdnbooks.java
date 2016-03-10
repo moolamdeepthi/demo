@@ -44,6 +44,6 @@ public class Sdnbooks {
 			e.printStackTrace();
 		}
 
-	System.out.println("amazon is opened");
+
 	}}
 }
